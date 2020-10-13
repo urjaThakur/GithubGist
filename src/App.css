@@ -1,0 +1,96 @@
+.App {
+  text-align: center;
+}
+
+.App ul {
+  margin: auto;
+}
+
+.App ul li {
+  margin-right: 1.5rem;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.navbar {
+  background-color: black;
+}
+.navbar-brand {
+  font-weight: 900;
+  font-size: x-large;
+}
+
+.section-a {
+  height: 700px;
+}
+
+.card1 {
+  width: 400px;
+  padding-top: 7rem;
+}
+
+button {
+  border: 1px solid white;
+  background-color: rgb(67, 139, 67);
+  color: white;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+  border-radius: 12px;
+}
+
+img {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+}
+
+.section-b {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: #f3f3f3;
+}
+
+textarea {
+  height: 200px !important;
+}
+
+.abc {
+  padding-bottom: 6px;
+  border-bottom: 3px solid maroon;
+}
+.count {
+  border-radius: 50%;
+  padding: 0.2rem;
+  padding-left: 0.4rem;
+  padding-right: 0.4rem;
+  background-color: lightgrey;
+  font-weight: 600;
+  font-size: small;
+}
+
+.img1 {
+  height: 30px;
+  width: 30px;
+  margin-bottom: 1rem;
+}
+
+.text {
+  font-size: smaller;
+  color: blue;
+  font-weight: 600;
+  padding-top: 0.5rem;
+}
+
+.img2 {
+  height: 200px;
+  width: 200px;
+}
+
+.text1 {
+  font-weight: 600;
+}
